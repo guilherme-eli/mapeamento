@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="099fd60b-425b-db50-ffb0-6b813814b670">
-    <mxGraphModel dx="2018" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13773,6 +13773,9 @@
         </mxCell>
         <mxCell id="5uFtM1uHfp2Vvb-RJ3KJ-3888" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:15.0pt;line-height:107%;font-family:&lt;br/&gt;&amp;quot;Arial&amp;quot;,sans-serif;color:#1F1F1F;background:white&quot;&gt;ÁREA DE SEPARAÇÃO&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="500" y="440" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5uFtM1uHfp2Vvb-RJ3KJ-3889" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.elevator;" vertex="1" parent="1">
+          <mxGeometry x="340" y="450" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
